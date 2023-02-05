@@ -1,0 +1,14 @@
+shmuel,levi,112233442,c language,89
+shmuel,levi,112233442,compuTER network,94
+shmuel,levi,112233442,cs fundementals,93
+shlomo,yeuda,112233443,c language,80
+shlomo,yeuda,112233443,computer network,85
+shlomo,yeuda,112233443,cs fundementals,75
+ishaiahu,isaharof,112233444,c language,100
+ishaiahu,isaharof,112233444,computer network,100
+ishaiahu,isaharof,112233444,cs fundementals,100
+irmiahu,zvuluni,112233445,c language,97
+irmiahu,zvuluni,112233445,computer network,100
+irmiahu,zvuluni,112233445,cs fundementals,87
+vlad,isaac,123456789,c_language,90
+vlad,isaac,123456789,c_language
