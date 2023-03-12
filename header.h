@@ -76,6 +76,7 @@ void insert (struct student **head, struct student *newStudent);
 //----------------------------------------------------------------------------------------------------
 void writeTofile (struct student *newStruct, char *fileName);
 //----------------------------------------------------------------------------------------------------
-
+void
+displayMenu(char *fileName, struct student **head, struct student **headError);
 
 #endif // !__HEADER_H__
