@@ -1,7 +1,6 @@
 #include "utils.h"
 
-char *
-scanLineDinamically (FILE * type)
+char * scanLineDinamically (FILE * type)
 {
   char *fullstr = NULL;
   char substr[11] = { 0 };
